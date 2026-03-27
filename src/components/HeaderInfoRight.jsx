@@ -1,5 +1,5 @@
 import React from 'react'
-import Image from './src/assets/Image.png'
+import Image from '/src/assets/Image.png'
 
 const HeaderInfoRight = () => {
   return (
